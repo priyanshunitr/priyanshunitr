@@ -1,5 +1,5 @@
 ## About Me:
-Hey! This is Priyanshu a Full Stack Developer and AI Enthusiast
+DAMM BRO! ARE YOU STALKING ME 😏😂
 
 
 ## Socials:
