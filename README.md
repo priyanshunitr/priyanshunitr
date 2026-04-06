@@ -4,7 +4,7 @@
 
 # Hi there, I'm Priyanshu Sahu! 👋
 
-### Full Stack Developer | From India 🇮🇳
+### Full Stack Developer | AI Enthusiast
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer focused on building scalable and efficient applications. I enjoy working across the entire stack, from crafting seamless user experiences to designing powerful backend systems. Let's build something amazing together! 🚀
 
