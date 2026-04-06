@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="[https://share.creavite.co/679f19ba0ae0e4f686a689d6.gif](https://share.creavite.co/69d40210a828deb1587383cc.gif
-)" width="100%">
+  <img src="https://share.creavite.co/69d40210a828deb1587383cc.gif" width="100%">
 </div>
 
 # Hi there, I'm Priyanshu Sahu! 👋
