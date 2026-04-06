@@ -28,10 +28,6 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer focused on b
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swaindhruti&show_icons=true&theme=nightowl&hide_border=true" alt="Dhruti's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaindhruti&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 
